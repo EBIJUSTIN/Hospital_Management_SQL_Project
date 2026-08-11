@@ -146,19 +146,82 @@ Examples: CONCAT, ROUND, UPPER, COUNT, AVG.
 
 <img width="639" height="386" alt="Screenshot 2026-08-11 054650" src="https://github.com/user-attachments/assets/efd6ce06-0df9-4e91-a34f-6ef175a21b93" />
 
+Window functions
+
+Window functions calculate rankings without collapsing all detail rows.
+
+<img width="317" height="352" alt="Screenshot 2026-08-11 055656" src="https://github.com/user-attachments/assets/1bb9474d-c97c-440a-8e88-a93d598be493" />
+
+<img width="513" height="194" alt="Screenshot 2026-08-11 055707" src="https://github.com/user-attachments/assets/8a541674-a1d4-4955-9c93-9e4a73ec0b43" />
+
+CASE expression
+
+CASE turns coded statuses into clear business labels.
+
+<img width="631" height="436" alt="Screenshot 2026-08-11 060435" src="https://github.com/user-attachments/assets/5b19da06-21c5-47e8-90bd-707772da9a6e" />
+
+Date and time functions
+
+Use DATE, DAYNAME, NOW and TIMESTAMPDIFF for time-aware hospital reports
+
+<img width="601" height="466" alt="Screenshot 2026-08-11 060634" src="https://github.com/user-attachments/assets/af36d454-874c-4400-8c8d-86a657141823" />
+
+INNER JOIN
+
+INNER JOIN returns records with matching relationships across all linked tables.
+
+<img width="587" height="349" alt="Screenshot 2026-08-11 061329" src="https://github.com/user-attachments/assets/d26c6c79-cd10-4284-ac91-f51fcef8b476" />
 
 
+<img width="482" height="248" alt="Screenshot 2026-08-11 061345" src="https://github.com/user-attachments/assets/f92488f2-1cc4-4fe0-beeb-5ebc19fcd941" />
+
+LEFT JOIN
+
+LEFT JOIN retains every patient, including those without an appointment.
+
+<img width="617" height="193" alt="Screenshot 2026-08-11 061727" src="https://github.com/user-attachments/assets/e7293bcd-3bc0-4b32-9790-d476d64556d3" />
 
 
+<img width="336" height="282" alt="Screenshot 2026-08-11 061745" src="https://github.com/user-attachments/assets/1db5ee12-fd25-413a-9e24-7cb15579ca1c" />
 
+RIGHT JOIN
 
+RIGHT JOIN retains every doctor, including a doctor with no current appointment.
 
+<img width="423" height="169" alt="Screenshot 2026-08-11 062110" src="https://github.com/user-attachments/assets/8d2a26b0-9795-4ad3-b4a4-c226d7f06384" />
 
+<img width="238" height="251" alt="Screenshot 2
+    026-08-11 062118" src="https://github.com/user-attachments/assets/cb50e104-bd1f-4ec5-b901-bb2424c1e91d" />
 
+Common table expression (CTE)
 
+CTEs give a temporary result a clear name, making complex reports easier to read and maintain.
 
+<img width="449" height="351" alt="Screenshot 2026-08-11 062451" src="https://github.com/user-attachments/assets/3b11209b-b7fa-4d04-8ea9-a3c0f0c8d927" />
 
+<img width="241" height="162" alt="Screenshot 2026-08-11 062502" src="https://github.com/user-attachments/assets/6e57dfd6-5c65-4fcf-95cb-49408027b780" />
 
+SQL features included
+
+Seven connected tables with sample data.
+
+CRUD, filters, grouping, joins, UNION and subqueries.
+
+View, indexes and stored procedure.
+
+CASE, date functions, CTEs, windows and transactions.
+
+Conclusion
+
+The database captures a realistic hospital workflow.
+
+Relational design improves consistency and traceability.
+
+MySQL queries turn operational data into actionable insight.
+
+The project is ready for GitHub portfolio presentation.
+
+THANK YOU
 
 
 
