@@ -132,6 +132,19 @@ A subquery provides a value or set that the outer query can compare against
 
 <img width="589" height="325" alt="Screenshot 2026-08-11 053944" src="https://github.com/user-attachments/assets/47806ffe-296b-4178-9bae-aafe1b0fc24d" />
 
+COMMIT and ROLLBACK
+
+<img width="481" height="181" alt="Screenshot 2026-08-11 054246" src="https://github.com/user-attachments/assets/efe1453d-0899-4246-b6fa-82d202919648" />
+
+<img width="496" height="159" alt="Screenshot 2026-08-11 054253" src="https://github.com/user-attachments/assets/b8d4ce6f-6d30-463d-b79a-9e52de29c45b" />
+
+Functions
+
+Functions transform raw values into report-ready information.
+
+Examples: CONCAT, ROUND, UPPER, COUNT, AVG.
+
+<img width="639" height="386" alt="Screenshot 2026-08-11 054650" src="https://github.com/user-attachments/assets/efd6ce06-0df9-4e91-a34f-6ef175a21b93" />
 
 
 
