@@ -1,5 +1,6 @@
 # Hospital_Management_SQL_Project
 
+# AKASH D V
 ### EXPLORING: 7 RELATED TABLES
 
          ▶Department 
